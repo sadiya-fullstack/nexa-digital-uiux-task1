@@ -1,0 +1,10 @@
+{
+  "description": "Designed for small businesses and startups, this responsive website enhances online presence with a high-conversion homepage and clear calls to action.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
